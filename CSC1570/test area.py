@@ -1,0 +1,2 @@
+prime=True
+print(prime)
